@@ -1,0 +1,22 @@
+/*w3schools.com/css*/
+h1{
+	color: blue;
+	font-size: 70px;
+}
+body{
+	background-image: url("../images/tobleronesweet.jpg");
+	background-repeat: repeat;
+	background-color: rgb(255,255,245);
+	/*rgb color selection*/
+}
+div#heading-box-jdowiqejf{
+	/*border*/
+	border-width:2px;
+	border-style: solid;
+	margin:10px;
+	text-align: center;
+}
+
+.with-yellow{
+	background-color: yellow;
+}
